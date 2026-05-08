@@ -91,13 +91,12 @@ Pastikan file `domain_config.json` tersedia di folder `storage/app/`.
   "extensions": [ ... ]
 }
 
+```
 ** Pengaturan Session**
 ** Ubah dari database ke file untuk menghindari error jika tabel session belum ada**
 ```bash
 SESSION_DRIVER=file
 SESSION_LIFETIME=120
-```
-
 ```
 
 5. **Run Development Server**
