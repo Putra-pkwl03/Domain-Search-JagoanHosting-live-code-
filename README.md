@@ -1,10 +1,10 @@
----
 
 # Domain Search & Management System
 
-Sistem pencarian domain interaktif yang dibangun menggunakan stack modern: **Laravel 12**, **Inertia.js (React)**, dan **Tailwind CSS**. Aplikasi ini memungkinkan pengguna untuk mengecek ketersediaan berbagai ekstensi domain secara *real-time* melalui integrasi API Whois Jagoan Hosting.
+Sistem pencarian domain interaktif yang dibangun menggunakan stack modern: **Laravel 11**, **Inertia.js (React)**, dan **Tailwind CSS**. Aplikasi ini memungkinkan pengguna untuk mengecek ketersediaan berbagai ekstensi domain secara *real-time* melalui integrasi API Whois Jagoan Host
 
 ---
+
 
 ## Preview
 
@@ -111,4 +111,6 @@ Aplikasi ini terhubung dengan endpoint pihak ketiga untuk validasi domain:
 * **Header**: `X-WHOIS-AUTH`
 
 **Developed with by Ma'ruf Hariam**
+
+
 
